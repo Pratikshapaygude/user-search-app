@@ -39,3 +39,7 @@ JSONPlaceholder
 
 This project helped me practice DOM manipulation, event handling,
 Fetch API, JSON, async/await, input validation and error handling.
+
+## Live Demo
+
+[Click here to view the User Search App](https://pratikshapaygude.github.io/user-search-app/)
