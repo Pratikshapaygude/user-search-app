@@ -39,7 +39,7 @@ JSONPlaceholder
 
 This project helped me practice DOM manipulation, event handling,
 Fetch API, JSON, async/await, input validation and error handling.
-<img width="568" height="512" alt="image" src="https://github.com/user-attachments/assets/063929c7-07ba-4a3d-b0f7-3801ba58f2ab" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/063929c7-07ba-4a3d-b0f7-3801ba58f2ab" />
 
 
 ## Live Demo
